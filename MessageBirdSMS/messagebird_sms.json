@@ -1,0 +1,14 @@
+{
+  "messagebird_sms": {
+    "accesskey": "your-key",
+    "sender": "Sensu",
+    "recipients": [
+      { "name": "recipient1",
+        "number": ""
+      },
+      { "name": "recipient2",
+        "number": ""
+      }
+    ]
+  }
+}
